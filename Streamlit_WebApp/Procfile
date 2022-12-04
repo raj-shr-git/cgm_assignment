@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run Apple_Foliar_Disease_Detection.py
+web: sh setup.sh && streamlit run Anthropometric_Measurements_in_child.py
