@@ -1,0 +1,25 @@
+Our solution at CGM provides digital measurement for children for below age less than 5 years to detect and reduce malnutrition.
+
+The provided dataset contains a csv file and depthmap images of childrens. 
+The rows in csv file contains the entry for children and their corresponding pose prediction and height in cm and depthmap file id. 
+The raw depthmap files are also provided in the depthmap folder.
+Total 9 records of children have been provided for code development purpose.
+
+
+Problem statement:
+Given the dataset of depthmap images and corresponsing pose key points and height of the children. 
+Design the solution and write the code which can be used to train a model and predict the height of the children. 
+You are free to choose approach be it a Machine learning, Deep Learning or any other approaches along with having the reason of selecting for the same. 
+
+Note: The candidate need not to worry about the training and accuracy of the model as we have provided sample dataset. 
+The approach and working code is enough for the further evaluation.
+
+
+
+Submit: 
+Working code and a README file to run the code.
+
+https://arxiv.org/pdf/2105.01688.pdf
+https://blogs.worldbank.org/opendata/survey-specialists-and-data-scientists-meet-machine-learning-measure-person-s-height-picture
+https://watermark.silverchair.com/dgab093.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAsowggLGBgkqhkiG9w0BBwagggK3MIICswIBADCCAqwGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMmk9wsjExsoCUA88xAgEQgIICfZqwuOydD9YR-fTGkTOUo5LZZeq-O-3-cJfK-apXXdXOQGd2ar8IQDmDSi7BqeCFqYJWW2CmSiHIU-3KYyTwMIGHsUEHqnLLnQTKQ7Pedk2pCPrWWiGbpjegLCHq3GkpUV81YB75IsaXCxOCWJB41rAayUmY0w5uYOLm7Qum255K_7BkEpKX6HS8sT5zVEyyDImp6M7inB6gND7di8ylGxvwWm4z71qqp3UqDANSzHxXbQCeCS4KzPQNsKz-p7ISxk-KjfgcSUwRyt9ewY55V7PZbPIS7fzdewxYq-5j3SwNVHTyEHRpuNPFgsptUUBENBCOZqUiC-eJpIi1L4M-PX0SKDBMhxLTaNxNLKuEZ-hPv-NSdx91c5glcnqPAQ-InHO8NVvkPWzYwhbYdgIe0tXFyobW0Ahwzz7YGrKQDv6g1d6gO_FgqjcbmAsvP54i9bmde7CqBWCTnlFrzuHfiIBm7RcbEeGAfCzn-mU3ulP2crZp-QbGjLyi-zSqUNuOOYTLBaje4CCfYgqI0kfDZaS9CHjld017IZMfFBrePQ3gUGMx121DyX6LEto08PNIAJWOrqMr1N0B0DFJ7kiYQoPtYUvynZI-Kj6fL_ouLZ6EG3n2zrVfr1qejZCPYKCPuYWcdZstUPTar2cZ0ffyjuCeGWAX2xbrCI5K0BhnhV5HAO4_fynXGdvLW2YTjI6urOT7q_hJAGC59NRxVs9kTr5zI_7QkO2xIfz9wYSvn0M3VMi1rQDViE8knX9lcNU-0YbDTUHX1nZP9ea5W4PC9j-668QDOIpHk3IN4r4lvZUvA5JGMCU2om1XchcUIsWlFXkuIGhY4Lhe1mxdcIQ
+https://openaccess.thecvf.com/content_CVPR_2020/papers/Yin_Accurate_Estimation_of_Body_Height_From_a_Single_Depth_Image_CVPR_2020_paper.pdf
