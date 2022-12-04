@@ -10,6 +10,6 @@ EXPOSE 8501
 
 COPY . /app
 
-RUN sh setup.sh
+ENTRYPOINT ["streamlit","run"]
 
-CMD streamlit run Apple_Foliar_Disease_Detection.py --server.port $PORT
+CMD ["Anthropometric_Measurements_in_child.py"]

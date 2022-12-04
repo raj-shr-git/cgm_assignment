@@ -70,7 +70,7 @@ def page_display():
     st.text(proj_desc_txt)
 
     proj_git_repo = '[Code Repository](https://github.com/raj-shr-git/cgm_assignment)'
-    docker_image = '[Docker Image](https://medium.com/@raj-shr/apple-foliar-disease-detection-analysis-aba3abae9b79)'
+    docker_image = '[Docker Image](https://hub.docker.com/r/87889942/anthropometric_measurements_in_child)'
 
     linked_profile = '[LinkedIn](https://www.linkedin.com/in/raj-shr)'
     github_profile = '[GitHub](http://github.com/raj-shr-git/)'
