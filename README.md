@@ -2,11 +2,14 @@
     
 ❄ The term malnutrition addresses 3 broad groups of conditions:
 
-    ❄ "Undernutrition" : It includes wasting (low weight-for-height), stunting (low height-for-age) and underweight (low weight-for-age);
+    ❄ "Undernutrition" : It includes wasting (low weight-for-height), stunting (low height-for-age)
+    and underweight (low weight-for-age);
     
-    ❄ "Micronutrient-related malnutrition" : It includes micronutrient deficiencies (a lack of important vitamins and minerals) or micronutrient excess; and
+    ❄ "Micronutrient-related malnutrition" : It includes micronutrient deficiencies (a lack of 
+    important vitamins and minerals) or micronutrient excess; and
     
-    ❄ Overweight, obesity and diet-related noncommunicable diseases (such as heart disease, stroke, diabetes and some cancers).
+    ❄ Overweight, obesity and diet-related noncommunicable diseases (such as heart disease,
+    stroke, diabetes and some cancers).
     
 
 ❄ 1.9 billion adults are overweight or obese, while 462 million are underweight.
